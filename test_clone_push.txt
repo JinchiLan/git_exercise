@@ -1,0 +1,5 @@
+This is a test file.
+1) allan cloned the "git_exercise" repo from GitHub.
+2) allan added this file.
+3) allan push his change to the server, i.e. GitHub.
+edited on 201-12-14.
